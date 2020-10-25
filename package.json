@@ -31,7 +31,6 @@
     "eslint-plugin-coffeescript": "^1.0.0",
     "gulp": "^4.0.2",
     "gulp-coffee": "^3.0.3",
-    "gulp-coffeelint": "^0.6.0",
     "gulp-eslint": "^6.0.0"
   }
 }
