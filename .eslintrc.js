@@ -1,13 +1,14 @@
 module.exports = {
+  "parser": "eslint-plugin-coffee",
   "env": {
     "browser": true,
     "node": true
   },
   "plugins": [
-    "coffeescript"
+    "coffee"
   ],
   "extends": [
-    "eslint:recommended"
+    "plugin:coffee/eslint-recommended"
   ],
   "globals": {
     "define": true,
